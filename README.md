@@ -7,11 +7,6 @@
 
 ---
 
-<!-- Linha com efeito de código -->
-```diff
-+---------------------------------------------------------------------------------------------------+
-```
-
 ### 🛠 **Tech Stack**
 <div align="left">
   <!-- Linguagens -->
@@ -34,13 +29,19 @@
 
 ### 🎯 **Em Foco Atual**
 ```diff
-+ 📊 Análise de Dados: Dominando PowerBI e SQL
-+ 🤖 Automação: Criando testes eficientes com Playwright
-+ 🐳 DevOps: Explorando Docker e CI/CD
++ 📊 Análise de Dados com PowerBI
++ 🧪 Automação de Testes (Playwright)
++ 🐳 Containerização com Docker
 ```
 
+--- 
+
+### 📚 **Educação**
+```diff
 - 🎓 **Tecnólogo em Sistemas para Internet**  
-  IFSUL | Em andamento  
+  Instituto Federal Sul-rio-grandense (IFSUL) | Cursando  
+  <sub>_Disciplinas: Desenvolvimento Back-End e Front-End, Banco de Dados, redes e Engenharia de Software_</sub>
+```
 
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vicenzo-Az&show_icons=true&theme=algolia&hide_border=true&bg_color=00000000&title_color=1ABC9C&icon_color=1ABC9C" alt="Estatísticas" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicenzo-Az&layout=compact&theme=algolia&hide_border=true&bg_color=00000000&title_color=1ABC9C" alt="Linguagens mais usadas" /> </div>
 
