@@ -6,8 +6,8 @@
       <img src="./assets/perfil.gif" alt="Apresentação visual do perfil" width="140" />
     </td>
     <td valign="middle">
-      <h3 style="margin:6px 0">Backend Python · Dados · Testes</h3>
-      <h3 style="margin:6px 0">Estudante — Curso Superior de Tecnologia em Sistemas para Internet (IFSul, 2023–2027)</h3>
+      <p style="margin:6px 0"><strong>Backend Python</strong> · Dados · Testes</p>
+      <p style="margin:6px 0"><em>Estudante — Curso Superior de Tecnologia em Sistemas para Internet (IFSul, 2023–2027)</em></p>
     </td>
   </tr>
 </table>
