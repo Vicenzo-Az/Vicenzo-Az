@@ -12,11 +12,15 @@
   </tr>
 </table>
 
-## Resumo rápido
+---
 
-- Backend em Python.
-- Dados e automação.
-- Testes e qualidade.
+## Sobre mim
+
+Estudante de Sistemas para Internet no IFSul, focado em construir APIs robustas com Python e garantir qualidade com testes automatizados. Tenho interesse especial em análise de dados e automação de processos — gosto de transformar problemas reais em soluções simples e bem testadas.
+
+Atualmente aprofundando conhecimentos em Django, FastAPI e qualidade de software com pytest e Playwright.
+
+---
 
 ## Stack
 
@@ -51,8 +55,18 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+---
+
+## Atividade
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Vicenzo-Az&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicenzo-Az&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+---
+
 ## Contato
 
-- GitHub: [Vicenzo-Az](https://github.com/Vicenzo-Az)
-- LinkedIn: [https://www.linkedin.com/in/vicenzo-az](https://www.linkedin.com/in/vicenzo-az)
-- E-mail: <vicenzo.esc@gmail.com>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicenzo-az)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vicenzo.esc@gmail.com)
