@@ -57,15 +57,6 @@ Atualmente aprofundando conhecimentos em Django, FastAPI e qualidade de software
 
 ---
 
-## Atividade
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Vicenzo-Az&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicenzo-Az&layout=compact&theme=dark&hide_border=true" />
-</p>
-
----
-
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicenzo-az)
