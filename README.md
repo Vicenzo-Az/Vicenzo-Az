@@ -1,4 +1,6 @@
-# Vicenzo Escobar de Azambuja — Desenvolvedor Backend Júnior — Python & Dados
+# Vicenzo Escobar de Azambuja
+
+## Desenvolvedor Backend Júnior — Python & Dados
 
 ### Tecnologia em Sistemas para Internet (IFSul) — em andamento (2023–2027)
 
