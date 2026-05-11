@@ -1,12 +1,16 @@
 # Vicenzo Escobar de Azambuja
 
-> Backend Python | Dados | Testes
-
-**Estudante** — Curso Superior de Tecnologia em Sistemas para Internet (IFSul, 2023–2027)
-
-<p align="center">
-  <img src="./assets/perfil.gif" alt="Apresentação visual do perfil" width="250">
-</p>
+<table>
+  <tr>
+    <td width="160" valign="top">
+      <img src="./assets/perfil.gif" alt="Apresentação visual do perfil" width="140" />
+    </td>
+    <td valign="middle">
+      <p style="margin:6px 0"><strong>Backend Python</strong> · Dados · Testes</p>
+      <p style="margin:6px 0"><em>Estudante — Curso Superior de Tecnologia em Sistemas para Internet (IFSul, 2023–2027)</em></p>
+    </td>
+  </tr>
+</table>
 
 ## Resumo rápido
 
@@ -50,5 +54,5 @@
 ## Contato
 
 - GitHub: [Vicenzo-Az](https://github.com/Vicenzo-Az)
-- LinkedIn: [Vicenzo Escobar de Azambuja](https://www.linkedin.com/in/vicenzo-az)
+- LinkedIn: [https://www.linkedin.com/in/vicenzo-az](https://www.linkedin.com/in/vicenzo-az)
 - E-mail: <vicenzo.esc@gmail.com>
